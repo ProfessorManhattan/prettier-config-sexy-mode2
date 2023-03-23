@@ -36,7 +36,7 @@
     <img alt="Version: 1.1.4" src="https://img.shields.io/badge/version-1.1.4-blue.svg?cacheSeconds=2592000&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAACNJREFUCNdjIACY//+BEp9hhM3hAzYQwoBIAqEDYQrCZLwAAGlFKxU1nF9cAAAAAElFTkSuQmCC&style=flat-square" />
   </a>
   <a href="https://gitlab.com/megabyte-labs/npm/configs/prettier-config-sexy-mode/-/commits/master" title="GitLab CI build status" target="_blank">
-    <img alt="Build status" src="https://img.shields.io/gitlab/pipeline-status/megabyte-labs/npm/config/prettier-config?branch=master&label=build&logo=gitlab&logoColor=white&style=flat-square">
+    <img alt="Build status" src="https://img.shields.io/gitlab/pipeline-status/megabyte-labs/npm/config/prettier-config?branch=master&label=build&logo=gitlab&logoColor=white&style=flat-square" />
   </a>
   <a href="https://www.npmjs.com/package/prettier-config-sexy-mode" title="Dependency status reported by Depfu" target="_blank">
     <img alt="Dependency status reported by Depfu" src="https://img.shields.io/depfu/megabyte-labs/prettier-config-sexy-mode?logo=codeforces&logoColor=white&style=flat-square&logo=npm" />
